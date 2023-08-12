@@ -2,7 +2,7 @@
 In this book term "Code" means a system of transmission information
 between people and machine
 
-Morse alphabet(1791–1872)
+Samuel Morse alphabet(1791–1872)
     Every letter signed as sequence of dots and dash(.- -> A)
 
     LATIN
